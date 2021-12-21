@@ -1,0 +1,5 @@
+C:\Users\durraner\Music\Scratchpad Elite\ScratchPadElite\ScratchPadElite\bin\Debug\ScratchPadElite.exe.config
+C:\Users\durraner\Music\Scratchpad Elite\ScratchPadElite\ScratchPadElite\obj\Debug\ScratchPadElite.ScratchPadMain.resources
+C:\Users\durraner\Music\Scratchpad Elite\ScratchPadElite\ScratchPadElite\obj\Debug\ScratchPadElite.Resources.resources
+C:\Users\durraner\Music\Scratchpad Elite\ScratchPadElite\ScratchPadElite\obj\Debug\ScratchPadElite.SPCRefSearch.resources
+C:\Users\durraner\Music\Scratchpad Elite\ScratchPadElite\ScratchPadElite\obj\Debug\ScratchPadElite.vbproj.GenerateResource.Cache
